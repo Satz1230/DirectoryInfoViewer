@@ -1,0 +1,8 @@
+python >= 3.6 
+pyinstaller latest 
+pip latest 
+-------------- 
+Required Module:- 
+tkinter 
+os
+--------------
