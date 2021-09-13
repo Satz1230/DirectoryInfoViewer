@@ -1,2 +1,2 @@
 # DirectoryInfoViewer
-GUI directory info viewer application
+GUI directory info viewer application.
